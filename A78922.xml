@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties most earnest and sincere desire for peace. Expressed in two most gracious messages to the Lords and Commons of Parliament. : The first from Evesham, July 4, 1644. And the second from Tavestock, Sept. 8, 1644. Since the victory over the Earle of Essex.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78922</idno><idno type="EEBO-CITATION">47682829</idno>
+  <idno type="VID">172787</idno>
+  <idno type="EEBO-PROQUEST">2240896036</idno>
+  
+            <idno type="STC">Wing C2498A</idno>
+            <idno type="STC">ESTC R175724</idno>
+            <idno type="OCLC">47682829</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78922)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172787)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2650:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties most earnest and sincere desire for peace. Expressed in two most gracious messages to the Lords and Commons of Parliament. : The first from Evesham, July 4, 1644. And the second from Tavestock, Sept. 8, 1644. Since the victory over the Earle of Essex.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, and John Bill, Printers to the Kings most Excellent Majesty:,</publisher>
+                  <pubPlace>Bristoll, :</pubPlace>
+                  <date>M DC XLIIII [1644].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172787:1"/>
+            <pb facs="tcp:172787:1"/>
+            <p>HIS MAJESTIES Most earnest and sincere desire for <hi>PEACE.</hi>
+            </p>
+            <p>Expressed in two most gracious Messages to the Lords and Commons of Parliament.</p>
+            <p>The first from <hi>Evesham</hi> July 4. 1644.</p>
+            <p>And the second from <hi>Tavestock</hi> September 8. 1644.</p>
+            <p>Since the Victory over the Earle of <hi>ESSEX.</hi>
+            </p>
+            <p>BRISTOLL, Printed by ROBERT BARKER, and JOHN BILL, Printers to the Kings most Excel<g ref="char:EOLhyphen"/>lent Majesty: MDC.XLIIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172787:2"/>
+            <pb n="1" facs="tcp:172787:2"/>
+            <head>To the Lords and Commons of Par<g ref="char:EOLhyphen"/>liament Assembled at <hi>VVestminster.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E being deeply sensible of the miseries and calamities of this Our Kingdom, and of the grievous sufferings of Our poor Subjects, do most earnestly desire that some expedient may be found out, which by the blessing of God, may prevent the further effusion of blood, and restore the Nation to Peace, from the earnest and constant endevouring of which, as no discouragement given Vs on the contra<g ref="char:EOLhyphen"/>ry part shall make Vs cease, so no successe on Ours shall ever divert Vs. For the effecting whereof We are most ready and willing to condescend to all that shall be for the good of Vs and Our People,
+<pb n="2" facs="tcp:172787:3"/> whether by way of confirmation of what we have already granted, or of such fur<g ref="char:EOLhyphen"/>ther concession as shall be requisite to the giving a full Assurance of the Perform<g ref="char:EOLhyphen"/>ance of all Our most reall Professions, concerning the maintenance of the true Reformed Protestant Religion esta<g ref="char:EOLhyphen"/>blished in this Kingdom, with due re<g ref="char:EOLhyphen"/>gard to the ease of tender consciences, the just Priviledges of Parliament, and the Liberty and Property of the Sub<g ref="char:EOLhyphen"/>ject, according to the Laws of the Land; As also by granting a generall Pardon without or with exceptions, as shall be thought fit. In order to which blessed Peace, We do desire &amp; propound to the Lords and Commons of Parlia<g ref="char:EOLhyphen"/>ment assembled at <hi>Westm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nster,</hi> That they appoint such, and so many Persons as they shall think fit sufficiently autho<g ref="char:EOLhyphen"/>rized by them to attend Vs at Our Ar<g ref="char:EOLhyphen"/>my, upon safe conduct to come and re<g ref="char:EOLhyphen"/>turn (which We do hereby grant) and conclude w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th Vs, how the Premisses and all other things in question betwixt Vs and them, may be fully settled;
+<pb n="3" facs="tcp:172787:3"/> whereby all unhappy mistakings be<g ref="char:EOLhyphen"/>twixt Vs and Our People being re<g ref="char:EOLhyphen"/>moved, there may be a present Cessation of Arms, and, as soon as may be, a to<g ref="char:EOLhyphen"/>tall disbanding of all Armies, the Sub<g ref="char:EOLhyphen"/>ject have his due, and We be restored to our Rights. Wherein if this Our offer shall be accepted, there shall be nothing wanting on Our part, which may make Our people secure and happy.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Evesham</hi>
+                  </hi>
+                  <date>
+                     <hi>the 4. of <hi>Iuly,</hi> 1644.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:172787:4"/>
+            <head>To the Lords and Commons of Par<g ref="char:EOLhyphen"/>liament Assembled at <hi>VVestminster.</hi>
+            </head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T having pleased God in so eminent a manner, late<g ref="char:EOLhyphen"/>ly to blesse Our Armies in these Parts with successe, We do not so much joy in that blessing for any other consideration, as for the hopes We have that it may be a meanes to make others lay to heart, as We do, the miseries brought and continued upon Our King<g ref="char:EOLhyphen"/>dom by this unnaturall War, and that it may open your eares, and dispose your mindes, to embrace those offers of Peace and Reconciliation, which have been so often, and so earnestly made unto you by Vs, and from the constant and fer<g ref="char:EOLhyphen"/>vent endevours, of which We are re<g ref="char:EOLhyphen"/>solved never to desist. In Pursuance
+<pb n="5" facs="tcp:172787:4"/> whereof, We do, upon this occasion con<g ref="char:EOLhyphen"/>jure you to take into consideration Our (too long neglected) Message of the fourth of <hi>July</hi> from <hi>Evesham,</hi> which We again renue unto you. And that you will speedily send Vs such an Answer thereunto, as may shew unto Our poor Subjects, some light of a deliverance from their present calamities by a happy Accomodation, toward which We do here engage the Word of a King, to make good all those things which We have therein promised, and really to en<g ref="char:EOLhyphen"/>devour a happy conclusion of this Trea<g ref="char:EOLhyphen"/>ty. And so God direct you in the wayes of Peace,</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Tavestock</hi>
+                  </hi>
+                  <date>
+                     <hi>the 8. of <hi>September,</hi> 1644.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
